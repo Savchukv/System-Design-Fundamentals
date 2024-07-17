@@ -1,2 +1,2 @@
-# System-Design-Fundamentals
-Knowledge base on system design
+# System Design Fundamentals
+База знаний по системной дизайну. Поможет подготовиться к собеседованию и освежить знания.
