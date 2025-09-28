@@ -1,4 +1,7 @@
 # System Design Fundamentals
+
+![](https://github.com/Savchukv/System-Design-Fundamentals/blob/main/preview.png)
+
 База знаний по системной дизайну. Поможет подготовиться к собеседованию и освежить знания.
 
 ### Для чего это?
