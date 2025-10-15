@@ -45,8 +45,7 @@ System Design Interview длится обычно 1 час. Основной ц�
 10. Мок собеседование - https://www.youtube.com/watch?v=9_8ShTF6aQA
 11. Мок собеседование - https://www.youtube.com/watch?v=Wh5Ya6UFG1k
 12. Мок собеседование - https://www.youtube.com/watch?v=_K-eupuDVEc
-13. Книга - System Design. Подготовка к сложному интервью. Автор Алекс Сюй.
-14. [Книга - System Design. Подготовка к сложному интервью. Автор Алекс Сюй.](https://www.piter.com/collection/all/product/system-design-podgotovka-k-slozhnomu-intervyu)
+13. [Книга - System Design. Подготовка к сложному интервью. Автор Алекс Сюй.](https://www.piter.com/collection/all/product/system-design-podgotovka-k-slozhnomu-intervyu)
 
 ### База
 ### Балансировка нагрузки
